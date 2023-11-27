@@ -2,7 +2,7 @@
 
 Effortlessly create and explore hex color codes for your design and development projects. Perfect for web designers, graphic artists, and anyone who loves colors!
 
-![Hex Color Generator Screenshot](path-to-screenshot.png)
+<!--[Hex Color Generator Screenshot](path-to-screenshot.png)
 <!-- Replace with the actual path to your project screenshot -->
 
 ## Features
